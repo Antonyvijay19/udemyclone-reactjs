@@ -7,7 +7,6 @@
 <ul>
 <li>React.js</li>
 <li>HTML/CSS</li>
-<li>JavaScript</li>
 <li>Git</li>
 </ul>
 
